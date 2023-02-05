@@ -1,0 +1,6 @@
+category frequency hf cf c_ridits
+1 very_poor 3 - - -
+2 poor 2 - - -
+3 fair 5 - - -
+4 good 4 - - -
+5 very_good 6 - - -

@@ -1,0 +1,6 @@
+category frequency c_ridits c_ridits*frequency
+1 very_poor 3 - -
+2 poor 5 - -
+3 fair 5 - -
+4 good 4 - -
+5 very_good 3 - -
